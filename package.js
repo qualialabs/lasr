@@ -2,8 +2,8 @@ Package.describe({
   name: 'qualia:lasr',
   version: '0.0.1',
   summary: 'Lasr search',
-  git: '',
-  documentation: ''
+  git: 'https://github.com/qualialabs/lasr',
+  documentation: 'README.md',
 });
 
 var dependencies = [
