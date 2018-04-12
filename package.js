@@ -12,6 +12,7 @@ var dependencies = [
 ];
 
 Package.onUse(function(api) {
+  api.versionsFrom('METEOR@1.4');
   api.use(dependencies, ['client', 'server']);
   api.mainModule('common/lasr.js');
 });
