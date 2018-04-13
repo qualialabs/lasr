@@ -3,6 +3,8 @@
 Like [lunr](https://lunrjs.com/), but more focused. Provides search across
 arrays of objects.
 
+Available on [Atmosphere](https://atmospherejs.com/qualia/lasr).
+
 ## Usage
 
 ```js
